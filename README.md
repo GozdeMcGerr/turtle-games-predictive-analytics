@@ -78,6 +78,8 @@ Customer reviews were analysed using NLP techniques including:
 - Multiple linear regression explained 82.1% of the variation in loyalty points.
 - Income and loyalty showed a strong relationship across customer groups.
 
+![imange_alt](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/blob/d830cdbffdf2caa8436e15deb12841a1a10fe73d/images/Income%20vs%20Royalty.png) ![imange_alt](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/blob/d830cdbffdf2caa8436e15deb12841a1a10fe73d/images/Spending%20Score%20vs%20Loyalty%20Score.png)
+
 ### Decision Tree Classification
 
 - Accuracy: 99%
@@ -99,6 +101,8 @@ Five distinct customer segments were identified:
 
 The segmentation model supports targeted marketing and resource allocation.
 
+![image_alt](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/blob/d830cdbffdf2caa8436e15deb12841a1a10fe73d/images/K-Means%20Clustering.png)
+
 ### Natural Language Processing
 
 Analysis of customer reviews identified:
@@ -108,6 +112,8 @@ Analysis of customer reviews identified:
 - Opportunities for product improvement
 - Positive sentiment associated with highly rated products
 
+![i,age_alt](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/blob/8c0d533bdad5cd35b6a9326d342989d83e072798/images/Positive%20Feedbacks.png)
+
 ### Statistical Analysis in R
 
 Analysis found:
@@ -116,6 +122,8 @@ Analysis found:
 - Minimal outlier influence
 - Slight positive skewness
 - Strong support for predictive modelling applications
+
+![image_alt](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/blob/8c0d533bdad5cd35b6a9326d342989d83e072798/images/Screenshot%202026-10-05%20074731.png)
 
 ## Business Recommendations
 
@@ -152,10 +160,10 @@ Implement decision-tree-based loyalty monitoring to identify customers at risk o
 
 ## Project Files
 
-- `McGerr_Gozde_DA301_Assignment_Notebook.ipynb`
-- `McGerr_Gozde_DA301_Assignment_R.R`
-- `README.md`
-- `images/`
+- [Pythongames-python-analysis.ipynb
+- turtle-games-r-analysis.R
+- [Project Reportoject-report.pdf
+- [Presentation](turtle-games-px
 
 ## About This Project
 
