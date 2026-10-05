@@ -113,7 +113,7 @@ Analysis of customer reviews identified:
 - Positive sentiment associated with highly rated products
   
 
-![i,age_alt](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/blob/8c0d533bdad5cd35b6a9326d342989d83e072798/images/Positive%20Feedbacks.png)
+![image_alt](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/blob/8c0d533bdad5cd35b6a9326d342989d83e072798/images/Positive%20Feedbacks.png)
 
 
 ### Statistical Analysis in R
