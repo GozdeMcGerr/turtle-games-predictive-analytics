@@ -111,8 +111,10 @@ Analysis of customer reviews identified:
 - Frequent references to product quality
 - Opportunities for product improvement
 - Positive sentiment associated with highly rated products
+  
 
 ![i,age_alt](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/blob/8c0d533bdad5cd35b6a9326d342989d83e072798/images/Positive%20Feedbacks.png)
+
 
 ### Statistical Analysis in R
 
@@ -160,9 +162,10 @@ Implement decision-tree-based loyalty monitoring to identify customers at risk o
 
 ## Project Files
 
-- [Python Analysis Notebook](turtle-games-python-analysis.ipis.R
-- turtle-games-project-report.pdf
-- turtle-games-presentation.pptx
+- [Python Analysis](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/blob/4727f7a6322576ce8d1235317ee66d92f1732607/turtle-games-python-analysis.ipynb)
+- [R Ananlysis](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/blob/4727f7a6322576ce8d1235317ee66d92f1732607/turtle-games-r-analysis.R)
+- [Project Report](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/blob/4727f7a6322576ce8d1235317ee66d92f1732607/turtle-games-project-report.pdf)
+- [Presentation](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/blob/4727f7a6322576ce8d1235317ee66d92f1732607/turtle-games-presentation.pptx)
 
 ## About This Project
 
