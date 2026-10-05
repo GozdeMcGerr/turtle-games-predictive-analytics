@@ -166,6 +166,7 @@ Implement decision-tree-based loyalty monitoring to identify customers at risk o
 - [R Ananlysis](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/blob/4727f7a6322576ce8d1235317ee66d92f1732607/turtle-games-r-analysis.R)
 - [Project Report](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/blob/4727f7a6322576ce8d1235317ee66d92f1732607/turtle-games-project-report.pdf)
 - [Presentation](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/blob/4727f7a6322576ce8d1235317ee66d92f1732607/turtle-games-presentation.pptx)
+- [Visualisations](https://github.com/GozdeMcGerr/turtle-games-predictive-analytics/tree/4727f7a6322576ce8d1235317ee66d92f1732607/images)
 
 ## About This Project
 
