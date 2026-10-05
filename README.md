@@ -160,10 +160,9 @@ Implement decision-tree-based loyalty monitoring to identify customers at risk o
 
 ## Project Files
 
-- [Pythongames-python-analysis.ipynb
-- turtle-games-r-analysis.R
-- [Project Reportoject-report.pdf
-- [Presentation](turtle-games-px
+- [Python Analysis Notebook](turtle-games-python-analysis.ipis.R
+- turtle-games-project-report.pdf
+- turtle-games-presentation.pptx
 
 ## About This Project
 
